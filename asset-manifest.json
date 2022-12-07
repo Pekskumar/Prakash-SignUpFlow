@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prakash-SignUpFlow/static/css/main.6a1e1232.css",
+    "main.js": "/Prakash-SignUpFlow/static/js/main.a84b14f0.js",
+    "static/media/left-banner.jpg": "/Prakash-SignUpFlow/static/media/left-banner.6e1077173cc994866845.jpg",
+    "static/media/logo.png": "/Prakash-SignUpFlow/static/media/logo.a419c614864ecc3a4f84.png",
+    "index.html": "/Prakash-SignUpFlow/index.html",
+    "main.6a1e1232.css.map": "/Prakash-SignUpFlow/static/css/main.6a1e1232.css.map",
+    "main.a84b14f0.js.map": "/Prakash-SignUpFlow/static/js/main.a84b14f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1e1232.css",
+    "static/js/main.a84b14f0.js"
+  ]
+}
